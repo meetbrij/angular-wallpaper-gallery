@@ -305,7 +305,7 @@ Tools used
 - bower
 - bootstrap
 
-A Web Template Store developed by cloning angular-seed (boilerplate) repo.
+An Angular Image Gallery developed by cloning angular-seed (boilerplate) repo.
 
 clone angular-seed repo
 
@@ -317,5 +317,4 @@ npm install
 npm start
 ```
 
-
-
+The above project was created by following the steps given in the tutorial at ()
