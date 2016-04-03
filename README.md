@@ -295,3 +295,27 @@ For more information on AngularJS please check out http://angularjs.org/
 [karma]: http://karma-runner.github.io
 [travis]: https://travis-ci.org/
 [http-server]: https://github.com/nodeapps/http-server
+
+# Web Template Store 
+
+Tools used
+- node and npm
+- gulp
+- angular-seed
+- bower
+- bootstrap
+
+A Web Template Store developed by cloning angular-seed (boilerplate) repo.
+
+clone angular-seed repo
+
+`git clone --depth=1 https://github.com/angular/angular-seed.git <your-project-name>`
+
+Change to your project folder and run the following commands
+```
+npm install
+npm start
+```
+
+
+
