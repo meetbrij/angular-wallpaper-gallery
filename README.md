@@ -1,13 +1,11 @@
 # Angular Image Gallery
 
-Tools used
+An Angular Image Gallery developed by cloning [angular-seed](https://github.com/angular/angular-seed) (boilerplate) repo using the following tools:
 - node and npm
 - gulp
 - angular-seed
 - bower
 - bootstrap
-
-An Angular Image Gallery developed by cloning angular-seed (boilerplate) repo.
 
 clone angular-seed repo
 
